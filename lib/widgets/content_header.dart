@@ -249,7 +249,7 @@ class _PlayButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: const EdgeInsets.fromLTRB(0, 0, 10, 0),
+      padding: const EdgeInsets.fromLTRB(0, 0, 11, 0),
       width: 110,
       decoration: BoxDecoration(
         color: Colors.white,
